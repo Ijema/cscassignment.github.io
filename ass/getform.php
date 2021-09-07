@@ -85,7 +85,7 @@ if ($result->num_rows > 0) {
     }
     echo  "</table>";
 	
-	echo '<a href="register.html">Register new Info</a><br/>';
+	echo '<a href="courseregistration.html">Register new Info</a><br/>';
 }else {
  echo "No Records!";
     } 
